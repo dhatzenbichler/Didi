@@ -16,8 +16,7 @@
 title: Didn't do it
 email: admin@didi.ie
 description: > # this means to ignore newlines until "baseurl:"
-	  Didn't do it is a blog used as a notebook. A reminder of unfinished business, documentation on successful ventures, 
-	  a collection of thoughts and a project itself.
+ Didn't do it is a blog used as a notebook. A reminder of unfinished business, documentation on successful ventures, a collection of thoughts and a project itself.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: www.didi.ie # the base hostname & protocol for your site, e.g. http://example.com
